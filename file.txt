@@ -1,5 +1,5 @@
 01line
 02line
-03line
+03 this is a duplicate row 
 04line
-05line
+05 editing file 
